@@ -1,6 +1,6 @@
 ## Connect Four
 
-Connect four is a game where you need to align 4 pieces of your color on a board size of 6 to 7. You play turn versus an opponent, here it's an AI made with a minimax algorithm. Good luck ! 
+Connect four is a game where you need to align 4 pieces of your color on a board size of 6 to 7. You play versus an opponent, here it's an AI made with a minimax algorithm. Good luck ! 
 
 
 ## Installing
